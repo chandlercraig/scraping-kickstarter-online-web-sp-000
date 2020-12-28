@@ -19,7 +19,6 @@ def create_project_hash
 
   projects
 
-puts "done"
 end
 
 create_project_hash
